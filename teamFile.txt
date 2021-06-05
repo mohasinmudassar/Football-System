@@ -1,0 +1,4 @@
+team1 madrid 3 1 1 1 5 5 1
+team2 city2 1 0 1 0 2 2 0
+team3 city3 3 1 1 1 6 6 1
+team4 city4 1 1 0 0 3 3 1

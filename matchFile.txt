@@ -1,0 +1,3 @@
+team3 team1 3 0 12-23-2020
+team1 team3 4 2 14-23-2020
+team4 team2 3 2 4-7-20
